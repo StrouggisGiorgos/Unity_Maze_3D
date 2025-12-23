@@ -11,21 +11,21 @@ https://drive.google.com/file/d/1xRV4NYby0ZXKgHJcbPjNPYcZYdIhqmmU/view
 
 # Controls
 
-*L -> Right
+* L -> Right
 
-*J -> Left
+* J -> Left
 
-*I -> Up
+* I -> Up
 
-*K -> Down
+* K -> Down
 
-*+ (Numpad) -> Zoom In
+* + (Numpad) -> Zoom In
 
-*- (Numpad) -> Zoom Out
+* - (Numpad) -> Zoom Out
 
-*Arrow Keys -> Move Camera
+* Arrow Keys -> Move Camera
 
-*R -> Rotate Camera
+* R -> Rotate Camera
 
 # Rules
 
