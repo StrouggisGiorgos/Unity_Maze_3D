@@ -19,9 +19,9 @@ https://drive.google.com/file/d/1xRV4NYby0ZXKgHJcbPjNPYcZYdIhqmmU/view
 
 * K -> Down
 
-* + (Numpad) -> Zoom In
+* "+" (Numpad) -> Zoom In
 
-* - (Numpad) -> Zoom Out
+* "-" (Numpad) -> Zoom Out
 
 * Arrow Keys -> Move Camera
 
